@@ -26,6 +26,7 @@
     "fastify": "^3.27.4",
     "fastify-cors": "^6.0.3",
     "mocha": "^9.2.2",
+    "mongoose": "^6.2.10",
     "nodemon": "^2.0.15",
     "puppeteer": "^13.5.2"
   }
