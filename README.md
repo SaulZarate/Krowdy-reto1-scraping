@@ -7,6 +7,10 @@ El reto consiste en scrapear linkedin, buscando información de usuarios que apa
 ## Instalación
 - git clone https://github.com/SaulZarate/Krowdy-reto1-scraping.git
 - Crear archivo .env _(use de ejemplo: .env.example)_
+- npm install
+
+_Puppeter puede demorar unos minutos en instalarse._
+
 
 ## Test
 - npm start
