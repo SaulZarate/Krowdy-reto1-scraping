@@ -18,6 +18,10 @@ _Puppeter puede demorar unos minutos en instalarse._
 
 ## Ejecutar proyecto
 - npm start
+- Ejemplo del endpoint:
+  ```
+    http://127.0.0.1:3000/api/linkedin/search/peoples/?keywords=fullstack
+  ```
 
 ## Autor
 - Saúl Zarate
